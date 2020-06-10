@@ -24,7 +24,7 @@ const allPets = [
     age: 2,
     weight: 5,
     name: 'Hemingway',
-    isAdopted: false,
+    isAdopted: true,
   },
   {
     id: 'a7c8b608-0d39-401b-a693-1bc882f21425',
