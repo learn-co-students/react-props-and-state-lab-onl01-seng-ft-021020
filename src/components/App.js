@@ -37,16 +37,16 @@ class App extends React.Component {
   AdoptPet = (id)=>{
     let p =this.state.pets.find(pet=> pet.id === id)
     p.isAdopted = true
-    // this.setState({
-    //   ...this.
-    //   pets: [
-    //     ...this.state.pets,
-    //     p
-    //   ]
-    // })
+    this.setState({
+      ...this.state,
+      pets: [
+        ...this.state.pets
+      ]
+    })
   }
 
   render() {
+    console.log();
     return (
       <div className="ui container">
         <header>
