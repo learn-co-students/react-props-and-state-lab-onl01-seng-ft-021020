@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APP_DIR	webpack.config.js	/^var APP_DIR = path.resolve(__dirname, 'src\/');$/;"	v
+age	test/Pet-test.js	/^  gender: 'female',$/;"	p	class:const
+age	test/Pet-test.js	/^  gender: 'male',$/;"	p	class:const
+entry	webpack.config.js	/^module.exports = {$/;"	p	class:module.exports
+exposedProperties	test/helpers.js	/^var exposedProperties = ['window', 'navigator', 'document'];$/;"	v
+gender	test/Pet-test.js	/^  type: 'cat',$/;"	p	class:const
+gender	test/Pet-test.js	/^  type: 'dog',$/;"	p	class:const
+getRandomAge	src/pet-data-generator.js	/^function getRandomAge() {$/;"	f
+getRandomFromArray	src/pet-data-generator.js	/^function getRandomFromArray( arr ) {$/;"	f
+getRandomWeight	src/pet-data-generator.js	/^function getRandomWeight() {$/;"	f
+id	src/pet-data-generator.js	/^  const pet = {$/;"	p	class:const
+id	test/Pet-test.js	/^const FEMALE_CAT = {$/;"	p	class:const
+id	test/Pet-test.js	/^const MALE_DOG = {$/;"	p	class:const
+isAdopted	test/Pet-test.js	/^  name: 'Cuddles',$/;"	p	class:const
+isAdopted	test/Pet-test.js	/^  name: 'Kennedy',$/;"	p	class:const
+jsdom	test/helpers.js	/^var jsdom = require('jsdom').jsdom;$/;"	v
+name	test/Pet-test.js	/^  weight: 6,$/;"	p	class:const
+pets	src/components/App.js	/^    this.state = {$/;"	p	class:import.Component.state
+type	test/App-test.js	/^const FILTERS_STATE = {$/;"	p	class:const
+type	test/Filters-test.js	/^const FILTERS_STATE = {$/;"	p	class:const
+type	test/Pet-test.js	/^  id: '86520b4b-7849-4462-b511-cddc7f416ad6',$/;"	p	class:const
+type	test/Pet-test.js	/^  id: '9e7cc723-d7f5-440d-8ead-c311e68014ee',$/;"	p	class:const
+userAgent	test/helpers.js	/^global.navigator = {$/;"	p	class:global.navigator
+weight	test/Pet-test.js	/^  age: 7,$/;"	p	class:const
+weight	test/Pet-test.js	/^  age: 8,$/;"	p	class:const
