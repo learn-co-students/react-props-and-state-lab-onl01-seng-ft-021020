@@ -46,10 +46,10 @@ descendants:
 
 ### `App`
 
-1.  The app's initial state is already defined. App has two children: the
+[X]1.  The app's initial state is already defined. App has two children: the
     `<Filters />` and `<PetBrowser />` components.
 
-2. App should pass a **callback** prop, `onChangeType`, to `<Filters />`. This
+[X]2. App should pass a **callback** prop, `onChangeType`, to `<Filters />`. This
    callback needs to update `<App />`'s `state.filters.type`
 
 3. `<Filters />` needs a **callback** prop, `onFindPetsClick`. When the
